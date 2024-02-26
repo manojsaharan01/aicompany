@@ -104,7 +104,7 @@ This repository contains links to open-source AI models and tools that can be de
 
 - **Data Analytics and Processing**: Tools for collecting, processing, and analyzing data to derive actionable insights.
 - **Machine Learning Models**: A collection of pre-trained models for various tasks such as image recognition, natural language processing, and predictive analytics.
-- **AI Integration Frameworks**: Frameworks and libraries that facilitate the integration of AI into business processes and applications.
+- **AI Integration Frameworks**: Frameworks and libraries that facilitate the integration of AI into business processes and applications.  ( https://github.com/a16z-infra/llm-app-stack )
 - **AI Governance and Ethics**: Resources for understanding and implementing ethical AI practices and governance.
 
 ## Contributing
