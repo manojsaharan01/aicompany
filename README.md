@@ -132,6 +132,9 @@ This repository contains links to open-source AI models and tools that can be de
 
   #### LLM App Stack
    ( https://github.com/a16z-infra/llm-app-stack )
+<p align="left">
+<img width="1000" alt="Screenshot 2024-03-04 at 9 33 01 PM" src="https://github.com/manojsaharan01/aicompany/assets/123043319/83dde04a-e360-435e-b4e9-dd94499511aa">
+</p>
 
 ## Contributing
 
