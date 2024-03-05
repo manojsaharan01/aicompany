@@ -6,15 +6,13 @@
   - [What is an AI-Native Company](#what-is-an-ai-native-company)
   - [Core Difference Between AI-Native and Traditional Companies](#core-difference-between-ai-native-and-traditional-companies)
   - [Building an AI-Native Company from Scratch](#building-an-ai-native-company-from-scratch)
-- [Project Mangement](#project-management)
+- [Agile Project Mangement](#agile-project-management)
   - [Scope of Work Example](#scope-of-work-example)
   - [Sprint Examples](#sprint-examples)
-- [Contributing](#contributing)
-  - [How to Contribute](#how-to-contribute)
-  - [Contribution Guidelines](#contribution-guidelines)
 - [Resources](#resources)
   - [Tools and Libraries](#tools-and-libraries)
   - [Learning Materials](#learning-materials)
+-[Contributing](#contributing)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
 - [FAQs](#faqs)
@@ -28,7 +26,7 @@ Welcome to the AI Company repository, where we're dedicated to assembling the re
 We aim to make AI accessible, understandable, and actionable, enabling even the smallest teams to leverage AI technologies to drive innovation, efficiency, and growth.
 
 # Getting Started
-## What is an AI-Native Companies
+## What is an AI-Native Company
 
 Karim Lakhani, a professor at Harvard Business School, has extensively researched the impact of AI on business and competition. He posits that AI-native companies fundamentally differ from traditional businesses in their core operations, strategy, and potential for innovation. These companies are built around AI technologies from the ground up, leveraging data-driven insights to scale rapidly and adapt to changing market dynamics.
 
@@ -62,7 +60,7 @@ Figure 3: AI Native company
 Figure 4: Comparision
 <img width="1000" src="https://github.com/manojsaharan01/aicompany/assets/123043319/d4be1472-342e-43f8-b57a-09367a31f658">
 
-Figure 5: Long-Term Value creation 
+Figure 5: Long-Term Value Creation 
 <img width="1000"  src="https://github.com/manojsaharan01/aicompany/assets/123043319/675cfd10-f7f2-4289-82e5-2e73a89adebc">
 
 Source: Watch Karim Lakhani's video :(https://youtu.be/NhmgcA93W-Q?si=_c56Qmts8VzvutX3) and read his book: "Competing in the Age of AI" to get deeper insights in to the concept of an AI Native company or AI_ Factory.
@@ -70,38 +68,35 @@ Source: Watch Karim Lakhani's video :(https://youtu.be/NhmgcA93W-Q?si=_c56Qmts8V
 
 ## Building an AI-Native Company from Scratch
 
+### Understand your current situation
+Figure 6: Stages of Digital Transformation
+<img width="1000" src="https://github.com/manojsaharan01/aicompany/assets/123043319/31a5b63f-6ec7-4041-bbb9-57ff278e3416">
+
 To build an AI-native company, consider the following steps:
 
 1. **Embrace a Clear AI Vision**: 
 Start with clearly understanding how AI can fundamentally shape your business model and operations.
 
-3. **Prioritize Data**: 
-Collect and manage data effectively, ensuring high-quality data infrastructure and governance.
-
-4. **Design for Scalability**:
+2. **Design for Scalability**:
  Build your business with scalability in mind, using technologies that support rapid growth and flexibility.
 
-5. **Cultivate AI Expertise**: 
-Develop in-house AI capabilities and consider partnerships with AI technology providers.
-
-6. **Foster an AI-Savvy Culture**:
+3. **Foster an AI-Savvy Culture**:
  Encourage a culture that embraces change, innovation, and continuous learning in AI.
+
+5. **Prioritize Data**: 
+Collect and manage data effectively, ensuring high-quality data infrastructure and governance.
+
+6. **Cultivate AI Expertise**: 
+Develop in-house AI capabilities and consider partnerships with AI technology providers. Leverage ready to deploy open source projects. 
+
 7. **Iterate and Innovate**: 
 Stay attuned to AI advancements and continually refine your business model and AI applications.
 
-
-### Understand your current situation
-Figure 6: Stages of Digital Transformation
-<img width="1000" src="https://github.com/manojsaharan01/aicompany/assets/123043319/31a5b63f-6ec7-4041-bbb9-57ff278e3416">
-
-### Final destination
+8. **Final destination :
 Figure 7: AI Factory
 <img width="1000"  src="https://github.com/manojsaharan01/aicompany/assets/123043319/216d1765-0070-4336-82fb-868b4f5fa2e1"> 
 
-### Concept
-<img width="1000"  src="https://github.com/manojsaharan01/aicompany/assets/123043319/6bca8955-cad5-48a1-a8e0-d01ebcb5f70d">
-
-# Project Management
+# Agile Project Management
 ## Agile Project Management for building an AI Native company
 
 Agile project management is a key approach for deploying AI in business. It enables organizations to adapt to the dynamic nature of AI initiatives and achieve faster time-to-market. The process includes a kickoff briefing, AI design sprint, proof of AI development, and AI application deployment in production.
@@ -126,7 +121,7 @@ Organizations can effectively deploy AI solutions by following agile project man
 Figure 11: Data-centric roles 
 <img width="1000" alt="Data centric roles" src= "https://github.com/manojsaharan01/aicompany/assets/123043319/ab636e1e-acc5-4aa9-9ace-243ab7a031e9">
 
-## Repository Contents
+## Resources
 
 This repository contains links to open-source AI models and tools that can be deployed to build various aspects of an AI-native company. The resources are organized into categories based on their application in business operations:
 
