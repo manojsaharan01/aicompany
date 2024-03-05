@@ -1,7 +1,33 @@
-# AI Company: Building an AI-Native Business
+# Table of Contents
+- [Introduction](#introduction)
+  - [About the Project](#about-the-project)
+  - [Project Goals](#project-goals)
+- [Getting Started](#getting-started)
+  - [What is an AI-Native Company](#what-is-an-ai-native-company)
+  - [Core Difference Between AI-Native and Traditional Companies](#core-difference-between-ai-native-and-traditional-companies)
+  - [Building an AI-Native Company from Scratch](#building-an-ai-native-company-from-scratch)
+- [Project Mangement](#project-management)
+  - [Scope of Work Example](#scope-of-work-example)
+  - [Sprint Examples](#sprint-examples)
+- [Contributing](#contributing)
+  - [How to Contribute](#how-to-contribute)
+  - [Contribution Guidelines](#contribution-guidelines)
+- [Resources](#resources)
+  - [Tools and Libraries](#tools-and-libraries)
+  - [Learning Materials](#learning-materials)
+- [License](#license)
+- [Acknowledgments](#acknowledgments)
+- [FAQs](#faqs)
+- [Contact](#contact)
 
+# Introduction
+## About the Project
 Welcome to the AI Company repository, where we're dedicated to assembling the resources and knowledge necessary to build an AI-native company inspired by the insights of Karim Lakhani and the transformative power of artificial intelligence (AI).
 
+## Project Goals
+We aim to make AI accessible, understandable, and actionable, enabling even the smallest teams to leverage AI technologies to drive innovation, efficiency, and growth.
+
+# Getting Started
 ## What is an AI-Native Companies
 
 Karim Lakhani, a professor at Harvard Business School, has extensively researched the impact of AI on business and competition. He posits that AI-native companies fundamentally differ from traditional businesses in their core operations, strategy, and potential for innovation. These companies are built around AI technologies from the ground up, leveraging data-driven insights to scale rapidly and adapt to changing market dynamics.
@@ -75,7 +101,7 @@ Figure 7: AI Factory
 ### Concept
 <img width="1000"  src="https://github.com/manojsaharan01/aicompany/assets/123043319/6bca8955-cad5-48a1-a8e0-d01ebcb5f70d">
 
-
+# Project Management
 ## Agile Project Management for building an AI Native company
 
 Agile project management is a key approach for deploying AI in business. It enables organizations to adapt to the dynamic nature of AI initiatives and achieve faster time-to-market. The process includes a kickoff briefing, AI design sprint, proof of AI development, and AI application deployment in production.
