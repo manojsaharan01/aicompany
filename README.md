@@ -116,7 +116,10 @@ Source: AI boot camp by Armand Ruiz. Join this boot camp ( https://www.nocode.ai
 Organizations can effectively deploy AI solutions by following agile project management principles while adapting to changing requirements and priorities.
 
 Figure 11: Data-centric roles 
-<img width="1000" alt="Data centric roles" src= "https://github.com/manojsaharan01/aicompany/assets/123043319/ab636e1e-acc5-4aa9-9ace-243ab7a031e9">
+
+<p align="left">
+  <img width="500" height= "500"alt="Data centric roles" src="https://github.com/manojsaharan01/aicompany/assets/123043319/ab636e1e-acc5-4aa9-9ace-243ab7a031e9">
+</p>
 
 ## Resources
 
