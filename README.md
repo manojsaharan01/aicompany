@@ -10,12 +10,9 @@
   - [Scope of Work Example](#scope-of-work-example)
   - [Sprint Examples](#sprint-examples)
 - [Resources](#resources)
-  - [Tools and Libraries](#tools-and-libraries)
-  - [Learning Materials](#learning-materials)
--[Contributing](#contributing)
+- [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
-- [FAQs](#faqs)
 - [Contact](#contact)
 
 # Introduction
