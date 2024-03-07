@@ -37,6 +37,8 @@ Welcome to the AI Company repository, where we're dedicated to assembling the re
 ## Project Goals
 We aim to make AI accessible, understandable, and actionable, enabling even the smallest teams to leverage AI technologies to drive innovation, efficiency, and growth.
 
+<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
+
 # Getting Started
 ## What is an AI-Native Company
 
@@ -77,6 +79,7 @@ Figure 5: Long-Term Value Creation
 
 Source: Watch Karim Lakhani's video :(https://youtu.be/NhmgcA93W-Q?si=_c56Qmts8VzvutX3) and read his book: "Competing in the Age of AI" to get deeper insights in to the concept of an AI Native company or AI_ Factory.
 
+<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
 ## Building an AI-Native Company from Scratch
 
@@ -108,6 +111,8 @@ Stay attuned to AI advancements and continually refine your business model and A
 Figure 7: AI Factory
 <img width="1000"  src="https://github.com/manojsaharan01/aicompany/assets/123043319/216d1765-0070-4336-82fb-868b4f5fa2e1"> 
 
+<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
+
 # Agile Project Management
 ## Agile Project Management for building an AI Native company
 
@@ -135,6 +140,8 @@ Figure 11: Data-centric roles
 <p align="left">
   <img width="500" height= "500"alt="Data centric roles" src="https://github.com/manojsaharan01/aicompany/assets/123043319/ab636e1e-acc5-4aa9-9ace-243ab7a031e9">
 </p>
+
+<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
 ## Resources
 
