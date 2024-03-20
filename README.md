@@ -44,7 +44,7 @@ To democratize AI by making it accessible, understandable, and usable for everyo
 To create a future where AI technologies are developed and used in a way that benefits all of society, promoting fairness, transparency, and inclusivity. We envision a world where AI serves as a tool for enhancing human capabilities and addressing global challenges.
 
 ## Road Map
-Visit the Project Road Map under the [Road_Ma ](Road_Map.md) section to be updated.
+Visit the Project Road Map under the [Road_Map ](Road_Map.md) section to be updated.
 
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
