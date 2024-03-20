@@ -1,7 +1,7 @@
-# People Democratising AI (TBA)
+# People Democratising AI 
 Highlight the individuals and organizations actively working towards democratizing AI. This section can include profiles of contributors, their roles, and their contributions to the field of AI.
 
-# AO Community Spotlight (TBA)
+# AO Community Spotlight 
 Feature stories and interviews with community members who are using AI in innovative ways to solve real-world problems. This section can serve as inspiration and showcase the impact of democratizing AI.
 
 # AI for Everyone
