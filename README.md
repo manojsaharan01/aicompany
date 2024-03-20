@@ -1,7 +1,7 @@
   # Table of Contents
 - [Introduction](#introduction)
   - [About the Project](#about-the-project)
-  - [Project Goals](#project-goals)
+  - [Mission & Vision](#mission-and-vision)
 - [Getting Started](#getting-started)
   - [What is an AI-Native Company](#what-is-an-ai-native-company)
   - [Core Difference Between AI-Native and Traditional Companies](#core-difference-between-ai-native-and-traditional-companies)
@@ -32,10 +32,16 @@
 
 # Introduction
 ## About the Project
-Welcome to the AI Company repository, where we're dedicated to assembling the resources and knowledge necessary to build an AI-native company inspired by the insights of Karim Lakhani and the transformative power of artificial intelligence (AI).
+Welcome to the AI Company repository, where we're dedicated to assembling the resources, network and knowledge necessary to build an AI-native company inspired by the insights of Karim Lakhani and the transformative power of artificial intelligence (AI).
 
-## Project Goals
+## Mission and Vision
 We aim to make AI accessible, understandable, and actionable, enabling even the smallest teams to leverage AI technologies to drive innovation, efficiency, and growth.
+
+## Mission
+To democratize AI by making it accessible, understandable, and usable for everyone, regardless of their background in technology. We aim to break down barriers to AI entry and foster an inclusive community where diverse perspectives contribute to the development and ethical use of AI technologies.
+
+## Vision
+To create a future where AI technologies are developed and used in a way that benefits all of society, promoting fairness, transparency, and inclusivity. We envision a world where AI serves as a tool for enhancing human capabilities and addressing global challenges.
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
@@ -113,7 +119,7 @@ Figure 7: AI Factory
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
-# Agile Project Management
+# Agile Teams
 ## Agile Project Management for building an AI Native company
 
 Agile project management is a key approach for deploying AI in business. It enables organizations to adapt to the dynamic nature of AI initiatives and achieve faster time-to-market. The process includes a kickoff briefing, AI design sprint, proof of AI development, and AI application deployment in production.
