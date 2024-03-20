@@ -38,10 +38,14 @@ Welcome to the AI Company repository, where we're dedicated to assembling the re
 We aim to make AI accessible, understandable, and actionable, enabling even the smallest teams to leverage AI technologies to drive innovation, efficiency, and growth.
 
 ## Mission
-To democratize AI by making it accessible, understandable, and usable for everyone, regardless of their background in technology. We aim to break down barriers to AI entry and foster an inclusive community where diverse perspectives contribute to the development and ethical use of AI technologies.
+To democratize AI by making it accessible, understandable, and usable for everyone, regardless of their background in technology. We aim to break down barriers to AI entry and foster an inclusive community where diverse perspectives contribute to AI technologies' development and ethical use.
 
 ## Vision
 To create a future where AI technologies are developed and used in a way that benefits all of society, promoting fairness, transparency, and inclusivity. We envision a world where AI serves as a tool for enhancing human capabilities and addressing global challenges.
+
+## Road Map
+Visit the Project Road Map under the [Road_Map ](Road_Map.md) section to be updated.
+
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
@@ -360,7 +364,7 @@ The contents of this repository are available under the [MIT License](LICENSE.md
 
 ## Acknowledgments
 
-This repository is inspired by the work and teachings of Karim Lakhani. We acknowledge his contributions to the field of AI and business innovation.
+This repository is inspired by the work and teachings of Karim Lakhani and other leaders who are democratisng AI. We acknowledge his contributions to the field of AI and business innovation.
 
 ## Contact
 
