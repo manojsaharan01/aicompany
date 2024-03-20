@@ -4,7 +4,9 @@ Highlight the individuals and organizations actively working towards democratizi
 # AI Community Spotlight 
 Feature stories and interviews with community members who are using AI in innovative ways to solve real-world problems. This section can serve as inspiration and showcase the impact of democratizing AI.
 
-# AI for Everyone
+# Newsletter and community Discord server 
+A weekly newsletter and a community server will be used to build a network of like-minded people and other important things.
+
 ## Learning Resources
 Curate a list of learning materials, courses, tutorials, and workshops designed to teach AI concepts and skills to people of all skill levels. Emphasize resources that are free, open-source, or offer financial aid.
 
