@@ -25,6 +25,7 @@
     13. [Cloud Providers](#cloud-providers)
     14. [Opinionated Clouds](#opinionated-clouds)
 
+- [Investors](#investors)
 - [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
@@ -352,7 +353,16 @@ This is a list of available tools, projects, and vendors at each layer of the LL
 
 <br>
 <br>
-<br>
+<be>
+
+## Investors
+
+| Database Name       | Description                                                                 | Key Features                                                                                      | URL                                         |
+|---------------------|-----------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|---------------------------------------------|
+| AI Fund             | A venture studio for AI-based companies.                                    | - Diversified portfolio of AI investments<br>- Reserves ~20% for follow-on opportunities          | [AI Fund](https://aifund.ai)                |
+| VC Sheet - AI Funds | A list of funds with deep expertise in AI, ideal for startups.              | - Lists funds investing in various stages<br>- Includes technology and life sciences investment firms | [VC Sheet - AI Funds](https://www.vcsheet.com/sheet/ai-funds) |
+| Alumni Ventures - AI Fund | A diversified portfolio of Artificial Intelligence investments.          | - Investments alongside other established venture firms<br>- Access to fund materials and team insights | [Alumni Ventures - AI Fund](https://www.av.vc/funds/aifund) |
+| Investopedia - Top AI ETFs | An article listing top-performing AI ETFs.                                | - Focuses on ETFs targeting companies using AI<br>- Includes performance data and key takeaways   | [Top AI ETFs - Investopedia](https://www.investopedia.com/investing/top-etfs-capitalizing-artificial-intelligence/) |
 
 ## Contributing
 
