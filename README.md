@@ -1,4 +1,49 @@
-  # Table of Contents
+<div align="center">
+
+# 🏗️ Build an AI-Native Company
+### From Theory to Production — An Open-Source Blueprint
+
+[![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE.md)
+[![Community](https://img.shields.io/badge/Community-3,000%2B%20Members-brightgreen)](https://skool.com/ai-avengers)
+[![YouTube](https://img.shields.io/badge/YouTube-@ManojSaharanAI-red)](https://youtube.com/@ManojSaharanAI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manoj%20Saharan-blue)](https://linkedin.com/in/manojsaharanai)
+
+**Started in 2022 as a framework. Built into a real company by 2026.**
+
+</div>
+
+---
+
+# 🚀 2026 Status Update: What We Actually Built
+
+> In 2022, I open-sourced this blueprint for building AI-native companies. Instead of just theorizing, I went and built one. Here's what that looks like in production.
+
+## The Company: AI Avengers Lab
+
+| What | Details |
+|------|---------|
+| **Community** | 3,000+ members on [Skool](https://skool.com/ai-avengers) |
+| **Paid Product** | AI Avengers Lab — coaching community for AI entrepreneurs |
+| **Agency** | Custom B2B AI implementation for founders and agencies |
+| **Content** | YouTube [@ManojSaharanAI](https://youtube.com/@ManojSaharanAI) + LinkedIn |
+
+## What We Learned Building It
+
+Instead of hiring a large team, we built an AI-native operations layer that runs the business — using open-source AI agent frameworks, self-hosted CRM, and automation skills instead of expensive SaaS subscriptions.
+
+**Key principles that worked:**
+
+- **Sovereign infrastructure over SaaS** — Self-hosted tools give you full control over data, zero vendor lock-in, and dramatically lower costs.
+- **AI agents as team members** — Multiple specialized AI agents handle code, content, CRM, research, and outreach — coordinated from a single workspace.
+- **Open-source first** — Building on open-source agent frameworks means you own the stack and can customize without limits.
+- **One human, many agents** — A solo founder with the right AI architecture can operate at the output level of a 10-person team.
+
+> **The thesis from 2022 was right.** AI-native companies don't need big teams. They need the right architecture. Everything below is the original open-source framework that led to this build.
+
+---
+
+# Table of Contents
+- [2026 Status Update](#-2026-status-update-what-we-actually-built)
 - [Introduction](#introduction)
   - [About the Project](#about-the-project)
   - [Mission & Vision](#mission-and-vision)
@@ -6,10 +51,10 @@
   - [What is an AI-Native Company](#what-is-an-ai-native-company)
   - [Core Difference Between AI-Native and Traditional Companies](#core-difference-between-ai-native-and-traditional-companies)
   - [Building an AI-Native Company from Scratch](#building-an-ai-native-company-from-scratch)
-- [Agile Project Mangement](#agile-project-management)
+- [Agile Project Management](#agile-project-management)
   - [Scope of Work Example](#scope-of-work-example)
   - [Sprint Examples](#sprint-examples)
-- [Resources](#resources)
+- [Resources — LLM App Stack](#resources)
     1. [Data Pipelines](#data-pipelines)
     2. [Embedding Models](#embedding-models)
     3. [Vector Databases](#vector-databases)
@@ -24,19 +69,19 @@
     12. [App Hosting Platforms](#app-hosting-platforms)
     13. [Cloud Providers](#cloud-providers)
     14. [Opinionated Clouds](#opinionated-clouds)
-
 - [Investors](#investors)
 - [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
 - [Contact](#contact)
 
+---
+
 # Introduction
 ## About the Project
-Welcome to the AI Company repository, where we're dedicated to assembling the resources, network and knowledge necessary to build an AI-native company inspired by the insights of Karim Lakhani and the transformative power of artificial intelligence (AI).
+Welcome to the AI Company repository — an open-source blueprint for building AI-native companies, originally inspired by the research of Karim Lakhani and the transformative power of artificial intelligence.
 
-## Mission and Vision
-We aim to make AI accessible, understandable, and actionable, enabling even the smallest teams to leverage AI technologies to drive innovation, efficiency, and growth.
+**Started in 2022.** What began as a collection of frameworks, resources, and theory has since been battle-tested into a real, revenue-generating AI-native business: [AI Avengers](https://skool.com/ai-avengers).
 
 ## Mission
 To democratize AI by making it accessible, understandable, and usable for everyone, regardless of their background in technology. We aim to break down barriers to AI entry and foster an inclusive community where diverse perspectives contribute to AI technologies' development and ethical use.
@@ -45,7 +90,7 @@ To democratize AI by making it accessible, understandable, and usable for everyo
 To create a future where AI technologies are developed and used in a way that benefits all of society, promoting fairness, transparency, and inclusivity. We envision a world where AI serves as a tool for enhancing human capabilities and addressing global challenges.
 
 ## Road Map
-Visit the Project Road Map under the [Road_Map ](Road_Map.md) section to be updated.
+Visit the Project Road Map under the [Road_Map](Road_Map.md) section for historical context. For live updates, follow [@ManojSaharanAI](https://youtube.com/@ManojSaharanAI) on YouTube.
 
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
@@ -118,9 +163,10 @@ Develop in-house AI capabilities and consider partnerships with AI technology pr
 7. **Iterate and Innovate**: 
 Stay attuned to AI advancements and continually refine your business model and AI applications.
 
-8. **Final destination :
+8. **Final Destination: The AI Factory**
+
 Figure 7: AI Factory
-<img width="1000"  src="https://github.com/manojsaharan01/aicompany/assets/123043319/216d1765-0070-4336-82fb-868b4f5fa2e1"> 
+<img width="1000" alt="AI Factory" src="https://github.com/manojsaharan01/aicompany/assets/123043319/216d1765-0070-4336-82fb-868b4f5fa2e1">
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
@@ -205,18 +251,18 @@ This is a list of available tools, projects, and vendors at each layer of the LL
 | [Pgvector](https://github.com/pgvector/pgvector) | An open-source vector similarity search for Postgres, allowing for exact and approximate nearest-neighbor search | <a href=https://github.com/pgvector/pgvector><img src="https://img.shields.io/github/stars/pgvector/pgvector?style=social" width=90/></a> | <a href=https://pypi.org/project/pgvector><img src="https://img.shields.io/pypi/dw/pgvector" width=150/></a> |
 | [Zilliz (Milvus)](https://milvus.io/) | An open-source vector database, built for developing and maintaining AI applications | <a href=https://github.com/milvus-io/milvus><img src="https://img.shields.io/github/stars/milvus-io/milvus?style=social" width=90/></a> | <a href=https://pypi.org/project/pymilvus><img src="https://img.shields.io/pypi/dw/pymilvus" width=150/></a> |
 | [Qdrant](https://qdrant.tech/) | A vector database and vector similarity search engine | <a href=https://github.com/qdrant/qdrant><img src="https://img.shields.io/github/stars/qdrant/qdrant?style=social" width=90/></a> | <a href=https://pypi.org/project/qdrant-client><img src="https://img.shields.io/pypi/dw/qdrant-client" width=150/></a> |
-| [Metal io](https://getmetal.io/) | A managed service for developers to build applications with ML embeddings | N/A | <a href=https://pypi.org/project/metal-python><img src="https://img.shields.io/pypi/dw/metal-python" width=150/></a> |
+
 | [LanceDB](https://lancedb.com/) | A serverless vector database for AI applications | <a href=https://github.com/lancedb/lancedb><img src="https://img.shields.io/github/stars/lancedb/lancedb?style=social" width=90/></a> | <a href=https://pypi.org/project/lancedb><img src="https://img.shields.io/pypi/dw/lancedb" width=150/></a> |
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
 ### Playgrounds
-| Name (site)                                       | Description                                                                                                                               | Github                                                                                                                                                                        | Pip Installs                                                                                                             |
-|---------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
-| [OpenAI Playground](https://platform.openai.com/) | A web-based platform for experimenting with various machine-learning models developed by OpenAI                                           | N/A                                                                                                                                                                           | N/A                                                                                                                      |
-| [nat.dev](https://nat.dev)                        | A platform that allows users to test prompts with multiple language models and compare their performance                                  | <a href=https://github.com/nat/openplayground><img src="https://img.shields.io/github/stars/nat/openplayground?style=social" width=90/></a>                                   | <a href=https://pypi.org/project/openplayground><img src="https://img.shields.io/pypi/dw/openplayground" width=150/></a> |
-| [Humanloop](https://humanloop.com/)               | A platform that helps developers build applications on top of LLMs                                                                        | <a href=https://github.com/humanloop/humanloop-tutorial-python><img src="https://img.shields.io/github/stars/humanloop/humanloop-tutorial-python?style=social" width=90/></a> | <a href=https://pypi.org/project/humanloop><img src="https://img.shields.io/pypi/dw/humanloop" width=150/></a>           |
-| [Parea AI](https://www.parea.ai/)                 | Platform and SDK for AI Engineers providing tools for LLM evaluation, observability, and a version-controlled enhanced prompt playground. | <a href=https://github.com/parea-ai><img src="https://img.shields.io/github/stars/parea-ai/parea-sdk-py?style=social" width=90/></a>                                          | <a href=https://pypi.org/project/parea-ai/><img src="https://img.shields.io/pypi/dw/parea-ai" width=150/></a>            |
+| Name (site) | Description | Github | Pip Installs |
+|------------|------------|------------|------------|
+| [OpenAI Playground](https://platform.openai.com/) | A web-based platform for experimenting with various machine-learning models developed by OpenAI | N/A | N/A |
+| [Google AI Studio](https://aistudio.google.com/) | Google's playground for prototyping with Gemini models, including multimodal capabilities | N/A | N/A |
+| [Humanloop](https://humanloop.com/) | A platform that helps developers build applications on top of LLMs | <a href=https://github.com/humanloop/humanloop-tutorial-python><img src="https://img.shields.io/github/stars/humanloop/humanloop-tutorial-python?style=social" width=90/></a> | <a href=https://pypi.org/project/humanloop><img src="https://img.shields.io/pypi/dw/humanloop" width=150/></a> |
+| [Parea AI](https://www.parea.ai/) | Platform and SDK for AI Engineers providing tools for LLM evaluation, observability, and a version-controlled enhanced prompt playground | <a href=https://github.com/parea-ai><img src="https://img.shields.io/github/stars/parea-ai/parea-sdk-py?style=social" width=90/></a> | <a href=https://pypi.org/project/parea-ai/><img src="https://img.shields.io/pypi/dw/parea-ai" width=150/></a> |
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
@@ -225,12 +271,12 @@ This is a list of available tools, projects, and vendors at each layer of the LL
 |------------|------------|------------|------------|
 | [Langchain](https://langchain.com/) | An open-source library that gives developers the tools to build applications powered by LLMs | <a href=https://github.com/langchain-ai/langchain><img src="https://img.shields.io/github/stars/langchain-ai/langchain?style=social" width=90/></a> | <a href=https://pypi.org/project/langchain><img src="https://img.shields.io/pypi/dw/langchain" width=150/></a> |
 | [LlamaIndex](https://llamaindex.ai/) | A data framework for LLM applications to ingest, structure, and access private or domain-specific data | <a href=https://github.com/jerryjliu/llama_index><img src="https://img.shields.io/github/stars/jerryjliu/llama_index?style=social" width=90/></a> | <a href=https://pypi.org/project/llama-index><img src="https://img.shields.io/pypi/dw/llama-index" width=150/></a> |
+| [CrewAI](https://www.crewai.com/) | A framework for orchestrating role-playing autonomous AI agents that collaborate to solve complex tasks | <a href=https://github.com/crewAIInc/crewAI><img src="https://img.shields.io/github/stars/crewAIInc/crewAI?style=social" width=90/></a> | <a href=https://pypi.org/project/crewai><img src="https://img.shields.io/pypi/dw/crewai" width=150/></a> |
+| [n8n](https://n8n.io/) | An open-source workflow automation tool with native AI agent capabilities and 400+ integrations | <a href=https://github.com/n8n-io/n8n><img src="https://img.shields.io/github/stars/n8n-io/n8n?style=social" width=90/></a> | N/A (node/npm) |
 | [Autogen](https://microsoft.github.io/autogen/) | A framework for automating and streamlining LLM workflows using customizable, conversable agents for complex AI applications | <a href=https://github.com/microsoft/autogen><img src="https://img.shields.io/github/stars/microsoft/autogen?style=social" width=90/></a> | <a href=https://pypi.org/project/pyautogen><img src="https://img.shields.io/pypi/dw/pyautogen" width=150/></a> |
-| [Microsoft Semantic Kernel](https://github.com/microsoft/semantic-kernel) | A lightweight open-source orchestration SDK  | <a href=https://github.com/microsoft/semantic-kernel><img src="https://img.shields.io/github/stars/microsoft/semantic-kernel?style=social" width=90/></a> | <a href=https://pypi.org/project/semantic-kernel><img src="https://img.shields.io/pypi/dw/semantic-kernel" width=150/></a> |
+| [Microsoft Semantic Kernel](https://github.com/microsoft/semantic-kernel) | A lightweight open-source orchestration SDK | <a href=https://github.com/microsoft/semantic-kernel><img src="https://img.shields.io/github/stars/microsoft/semantic-kernel?style=social" width=90/></a> | <a href=https://pypi.org/project/semantic-kernel><img src="https://img.shields.io/pypi/dw/semantic-kernel" width=150/></a> |
 | [Haystack](https://haystack.deepset.ai/) | LLM orchestration framework to build customizable, production-ready LLM applications | <a href=https://github.com/deepset-ai/haystack><img src="https://img.shields.io/github/stars/deepset-ai/haystack?style=social" width=90/></a> | <a href=https://pypi.org/project/farm-haystack/><img src="https://img.shields.io/pypi/dw/farm-haystack" width=150/></a> |
-| [Vercel AI SDK](https://sdk.vercel.ai/docs) | An open-source library for developers to build streaming UIs in JavaScript and TypeScript | <a href=https://github.com/vercel/ai><img src="https://img.shields.io/github/stars/vercel-labs/ai?style=social" width=90/></a> | <a href=https://pypi.org/project/vercel-ai-sdk><img src="https://img.shields.io/npm/dw/ai" width=150/></a>(node/npm)|
-| [Vectara AI](https://vectara.com/) | A search and discovery platform for AI conversations utilizing your own data | <a href=https://github.com/vectara/vectara-ingest><img src="https://img.shields.io/github/stars/vectara/vectara-ingest?style=social" width=90/></a> | N/A |
-| [ChatGPT](https://chat.openai.com) | An AI chatbot that uses natural language processing to create humanlike conversational dialogue | N/A| N/A |
+| [Vercel AI SDK](https://sdk.vercel.ai/docs) | An open-source library for developers to build streaming UIs in JavaScript and TypeScript | <a href=https://github.com/vercel/ai><img src="https://img.shields.io/github/stars/vercel-labs/ai?style=social" width=90/></a> | <a href=https://pypi.org/project/vercel-ai-sdk><img src="https://img.shields.io/npm/dw/ai" width=150/></a> (node/npm) |
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
@@ -249,7 +295,7 @@ This is a list of available tools, projects, and vendors at each layer of the LL
 |------------|------------|------------|------------|
 | [Redis](https://redis.io/) | An in-memory data structure store used as a database, cache, message broker, and streaming engine | <a href=https://github.com/redis/redis><img src="https://img.shields.io/github/stars/redis/redis?style=social" width=90/></a> | <a href=https://pypi.org/project/redis/><img src="https://img.shields.io/pypi/dw/redis" width=150/></a> |
 | [SQLite](https://sqlite.org/) | A self-contained, serverless, zero-configuration, transactional SQL database engine | <a href=https://github.com/sqlite/sqlite><img src="https://img.shields.io/github/stars/sqlite/sqlite?style=social" width=90/></a> | <a href=https://pypi.org/project/pysqlite3/><img src="https://img.shields.io/pypi/dw/pysqlite3" width=150/></a> |
-| [GPTCache](https://github.com/zilliztech/GPTCache) | An open-source tool for improving the efficiency and speed of GPT-based applications by implementing a cache to store the responses | <a href=https://github.com/zilliztech/GPTCache><img src="https://img.shields.io/github/stars/zilliztech/GPTCache?style=social" width=90/></a> | N/A |
+| [DuckDB](https://duckdb.org/) | An in-process SQL OLAP database for fast analytical queries — ideal for local-first AI apps | <a href=https://github.com/duckdb/duckdb><img src="https://img.shields.io/github/stars/duckdb/duckdb?style=social" width=90/></a> | <a href=https://pypi.org/project/duckdb><img src="https://img.shields.io/pypi/dw/duckdb" width=150/></a> |
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
@@ -287,21 +333,21 @@ This is a list of available tools, projects, and vendors at each layer of the LL
 | Name (site) | Description | Github | Pip Installs |
 |------------|------------|------------|------------|
 | [Guardrails AI](https://shreyar.github.io/guardrails/) | An open-source Python package for specifying structure and type, validating, and correcting the outputs of LLMs | <a href=https://github.com/ShreyaR/guardrails><img src="https://img.shields.io/github/stars/ShreyaR/guardrails?style=social" width=90/></a> | <a href=https://pypi.org/project/guardrails-ai><img src="https://img.shields.io/pypi/dw/guardrails-ai" width=150/></a> |
-| [Rebuff](https://github.com/woop/rebuff) | An open-source framework designed to detect and protect against prompt injection attacks in LLM apps | <a href=https://github.com/woop/rebuff><img src="https://img.shields.io/github/stars/woop/rebuff?style=social" width=90/></a> | <a href=https://pypi.org/project/rebuff><img src="https://img.shields.io/pypi/dw/rebuff" width=150/></a> |
 | [Microsoft Guidance](https://github.com/microsoft/guidance) | A guidance language for controlling LLMs, providing a syntax for architecting LLM workflows | <a href=https://github.com/microsoft/guidance><img src="https://img.shields.io/github/stars/microsoft/guidance?style=social" width=90/></a> | <a href=https://pypi.org/project/guidance><img src="https://img.shields.io/pypi/dw/guidance" width=150/></a> |
-| [LMQL](https://lmql.ai/) | An open-source programming language and platform for language model interaction | <a href=https://github.com/eth-sri/lmql><img src="https://img.shields.io/github/stars/eth-sri/lmql?style=social" width=90/></a> | <a href=https://pypi.org/project/lmql><img src="https://img.shields.io/pypi/dw/lmql" width=150/></a> |
 | [Outlines](https://outlines-dev.github.io/outlines/) | A tool for helping developers guide text generation to build robust interfaces with external systems and guarantee that outputs match a regex or JSON schema | <a href=https://github.com/outlines-dev/outlines><img src="https://img.shields.io/github/stars/outlines-dev/outlines?style=social" width=90/></a> | <a href=https://pypi.org/project/outlines><img src="https://img.shields.io/pypi/dw/outlines" width=150/></a> |
-| [LLM Guard](https://github.com/laiyer-ai/llm-guard) | An open-source, comprehensive tool designed to fortify the security of Large Language Models (LLMs). | <a href=https://github.com/laiyer-ai/llm-guard><img src="https://img.shields.io/github/stars/laiyer-ai/llm-guard?style=social" width=90/></a> | <a href=https://pypi.org/project/llm-guard><img src="https://img.shields.io/pypi/dw/llm-guard" width=150/></a> |
+| [LLM Guard](https://github.com/laiyer-ai/llm-guard) | An open-source, comprehensive tool designed to fortify the security of Large Language Models (LLMs) | <a href=https://github.com/laiyer-ai/llm-guard><img src="https://img.shields.io/github/stars/laiyer-ai/llm-guard?style=social" width=90/></a> | <a href=https://pypi.org/project/llm-guard><img src="https://img.shields.io/pypi/dw/llm-guard" width=150/></a> |
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
 ### LLM APIs (proprietary)
 | Name (site) | Description | Github | Pip Installs |
 |------------|------------|------------|------------|
-| [OpenAI](https://openai.com) | A company providing many leading LLMs, including the GPT-3.5 and GPT-4 families | N/A | <a href=https://pypi.org/project/openai><img src="https://img.shields.io/pypi/dw/openai" width=150/></a> |
-| [Anthropic](https://anthropic.com) | The developer of Claude, an AI assistant based on Anthropic’s research  | N/A | <a href=https://pypi.org/project/anthropic><img src="https://img.shields.io/pypi/dw/anthropic" width=150/></a> |
+| [OpenAI](https://openai.com) | Provider of GPT-4o, o1, o3, and the Assistants API — the most widely adopted commercial LLM platform | N/A | <a href=https://pypi.org/project/openai><img src="https://img.shields.io/pypi/dw/openai" width=150/></a> |
+| [Anthropic](https://anthropic.com) | Creator of Claude 3.5 Sonnet and Claude Code — known for long-context reasoning and coding capabilities | N/A | <a href=https://pypi.org/project/anthropic><img src="https://img.shields.io/pypi/dw/anthropic" width=150/></a> |
+| [Google Gemini](https://ai.google.dev/) | Google's multimodal AI models (Gemini Pro, Ultra, Flash) with native vision, audio, and code understanding | N/A | <a href=https://pypi.org/project/google-genai><img src="https://img.shields.io/pypi/dw/google-genai" width=150/></a> |
+| [xAI Grok](https://x.ai/) | xAI's conversational AI with real-time information access and reasoning capabilities | N/A | N/A |
 | [Cohere AI](https://docs.cohere.com/docs/embeddings) | An LLM vendor with particular focus on embeddings for semantic search, topic clustering, and vertical applications | <a href=https://github.com/cohere-ai/notebooks><img src="https://img.shields.io/github/stars/cohere-ai/notebooks?style=social" width=90/></a> | <a href=https://pypi.org/project/cohere><img src="https://img.shields.io/pypi/dw/cohere" width=150/></a> |
-| [LLM](https://llm.datasette.io/en/stable/) | A CLI utility and Python library for interacting with Large Language Models, both via remote APIs and models that can be installed and run on your own machine. | <a href=https://github.com/simonw/llm><img src="https://img.shields.io/github/stars/simonw/llm?style=social" width=90/></a> | <a href=https://pypi.org/project/llm/><img src="https://img.shields.io/pypi/dw/llm" width=150/></a> |
+| [LLM](https://llm.datasette.io/en/stable/) | A CLI utility and Python library for interacting with Large Language Models, both via remote APIs and local models | <a href=https://github.com/simonw/llm><img src="https://img.shields.io/github/stars/simonw/llm?style=social" width=90/></a> | <a href=https://pypi.org/project/llm/><img src="https://img.shields.io/pypi/dw/llm" width=150/></a> |
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
@@ -322,9 +368,9 @@ This is a list of available tools, projects, and vendors at each layer of the LL
 |------------|------------|
 | [Vercel](https://vercel.com/) | A cloud platform designed for front-end engineers, built with first-class support for LLM apps |
 | [Netlify](https://www.netlify.com/) | An enterprise cloud computing company that offers a development platform for web applications and dynamic websites |
-| [Steamship](https://steamship.com/) | An SDK and hosting platform for AI agents and tools, both a package manager and package hosting service for AI |
 | [Streamlit](https://streamlit.io/) | An open-source Python library designed for creating and sharing custom web apps for ML and data science |
-| [Modal](https://modal.com) | A platform that enables running distributed applications using the modal Python package | 
+| [Modal](https://modal.com) | A platform that enables running distributed applications using the modal Python package |
+| [Google Cloud Run](https://cloud.google.com/run) | A fully managed serverless platform for containerized AI apps — pay only for what you use |
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
@@ -351,18 +397,28 @@ This is a list of available tools, projects, and vendors at each layer of the LL
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
-<br>
-<br>
-<be>
+---
 
-## Investors
+## Monetization Models for AI-Native Companies
 
-| Database Name       | Description                                                                 | Key Features                                                                                      | URL                                         |
-|---------------------|-----------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|---------------------------------------------|
-| AI Fund             | A venture studio for AI-based companies.                                    | - Diversified portfolio of AI investments<br>- Reserves ~20% for follow-on opportunities          | [AI Fund](https://aifund.ai)                |
-| VC Sheet - AI Funds | A list of funds with deep expertise in AI, ideal for startups.              | - Lists funds investing in various stages<br>- Includes technology and life sciences investment firms | [VC Sheet - AI Funds](https://www.vcsheet.com/sheet/ai-funds) |
-| Alumni Ventures - AI Fund | A diversified portfolio of Artificial Intelligence investments.          | - Investments alongside other established venture firms<br>- Access to fund materials and team insights | [Alumni Ventures - AI Fund](https://www.av.vc/funds/aifund) |
-| Investopedia - Top AI ETFs | An article listing top-performing AI ETFs.                                | - Focuses on ETFs targeting companies using AI<br>- Includes performance data and key takeaways   | [Top AI ETFs - Investopedia](https://www.investopedia.com/investing/top-etfs-capitalizing-artificial-intelligence/) |
+How AI-native companies actually generate revenue:
+
+| Model | Description | Example |
+|-------|-------------|--------|
+| **Community + Coaching** | Paid membership communities where founders learn to implement AI | Skool communities, Discord servers with premium tiers |
+| **AI Agency Services** | Custom B2B AI implementation — building AI workflows, agents, and automations for clients | Voice AI, AI SDRs, CRM automation, content systems |
+| **SaaS Products** | AI-powered software products sold as subscriptions | Internal tools turned into products, white-labeled AI solutions |
+| **Content + Audience** | Monetizing expertise through YouTube, LinkedIn, courses, and speaking | Ad revenue, sponsorships, course sales, affiliate partnerships |
+| **Consulting + Advisory** | High-ticket strategic consulting on AI transformation | AI readiness audits, implementation roadmaps, fractional AI leadership |
+
+## Get Involved
+
+If you're building an AI-native company (or thinking about it), here's how to connect:
+
+- 🎥 **Subscribe** to [@ManojSaharanAI](https://youtube.com/@ManojSaharanAI) for weekly breakdowns of AI tools and strategies
+- 👥 **Join** the [AI Avengers community (3,000+ members)](https://skool.com/ai-avengers) — free to join
+- 🚀 **Apply** to [AI Avengers Lab](https://skool.com/ai-avengers-lab/about) for hands-on coaching and frameworks
+- ⭐ **Star this repo** if you found it useful
 
 ## Contributing
 
@@ -378,8 +434,22 @@ This repository is inspired by the work and teachings of Karim Lakhani and other
 
 ## Contact
 
-Please open an issue or contact the repository maintainers (Linkedin: https://www.linkedin.com/in/manoj-saharan/) for questions or suggestions regarding this repository.
+**Manoj Saharan** — CEO, AI Avengers / TTW AI
 
-Let's build the future of AI-native companies together!
+- 🌐 [aiavengers.io](https://aiavengers.io)
+- 💼 [LinkedIn](https://linkedin.com/in/manojsaharanai)
+- 🎥 [YouTube @ManojSaharanAI](https://youtube.com/@ManojSaharanAI)
+- 👥 [Free Community (3,000+ members)](https://skool.com/ai-avengers)
+- 🚀 [AI Avengers Lab ($89/mo)](https://skool.com/ai-avengers-lab/about)
 
+For questions or suggestions, [open an issue](https://github.com/manojsaharan01/aicompany/issues) or reach out on LinkedIn.
 
+---
+
+<div align="center">
+
+**Started as an open-source blueprint in 2022. Built into a real AI-native company by 2026.**
+
+Let's build the future of AI-native companies together.
+
+</div>
