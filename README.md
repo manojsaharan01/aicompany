@@ -4,7 +4,7 @@
 ### From Theory to Production — An Open-Source Blueprint
 
 [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE.md)
-[![Community](https://img.shields.io/badge/Community-3,000%2B%20Members-brightgreen)](https://skool.com/ai-avengers)
+[![Community](https://img.shields.io/badge/Community-3,000%2B%20Members-brightgreen)](https://www.skool.com/ai-avengers-3116)
 [![YouTube](https://img.shields.io/badge/YouTube-@ManojSaharanAI-red)](https://youtube.com/@ManojSaharanAI)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Manoj%20Saharan-blue)](https://linkedin.com/in/manojsaharanai)
 
@@ -18,12 +18,12 @@
 
 > In 2022, I open-sourced this blueprint for building AI-native companies. Instead of just theorizing, I went and built one. Here's what that looks like in production.
 
-## The Company: AI Avengers Lab
+## The Company: AI Avengers lab Lab
 
 | What | Details |
 |------|---------|
-| **Community** | 3,000+ members on [Skool](https://skool.com/ai-avengers) |
-| **Paid Product** | AI Avengers Lab — coaching community for AI entrepreneurs |
+| **Community** | 3,000+ members on [Skool](https://www.skool.com/ai-avengers-3116) |
+| **Paid Product** | AI Avengers lab Lab — coaching community for AI entrepreneurs |
 | **Agency** | Custom B2B AI implementation for founders and agencies |
 | **Content** | YouTube [@ManojSaharanAI](https://youtube.com/@ManojSaharanAI) + LinkedIn |
 
@@ -81,7 +81,7 @@ Instead of hiring a large team, we built an AI-native operations layer that runs
 ## About the Project
 Welcome to the AI Company repository — an open-source blueprint for building AI-native companies, originally inspired by the research of Karim Lakhani and the transformative power of artificial intelligence.
 
-**Started in 2022.** What began as a collection of frameworks, resources, and theory has since been battle-tested into a real, revenue-generating AI-native business: [AI Avengers](https://skool.com/ai-avengers).
+**Started in 2022.** What began as a collection of frameworks, resources, and theory has since been battle-tested into a real, revenue-generating AI-native business: [AI Avengers lab](https://www.skool.com/ai-avengers-3116).
 
 ## Mission
 To democratize AI by making it accessible, understandable, and usable for everyone, regardless of their background in technology. We aim to break down barriers to AI entry and foster an inclusive community where diverse perspectives contribute to AI technologies' development and ethical use.
@@ -416,8 +416,8 @@ How AI-native companies actually generate revenue:
 If you're building an AI-native company (or thinking about it), here's how to connect:
 
 - 🎥 **Subscribe** to [@ManojSaharanAI](https://youtube.com/@ManojSaharanAI) for weekly breakdowns of AI tools and strategies
-- 👥 **Join** the [AI Avengers community (3,000+ members)](https://skool.com/ai-avengers) — free to join
-- 🚀 **Apply** to [AI Avengers Lab](https://skool.com/ai-avengers-lab/about) for hands-on coaching and frameworks
+- 👥 **Join Our Friday Workshops ** the [https://manojsaharan.ai/workshop) — free to join
+- 🚀 **Apply** to [AI Avengers lab Lab](https://www.skool.com/ai-avengers-3116-lab/about) for hands-on coaching and frameworks
 - ⭐ **Star this repo** if you found it useful
 
 ## Contributing
@@ -434,13 +434,13 @@ This repository is inspired by the work and teachings of Karim Lakhani and other
 
 ## Contact
 
-**Manoj Saharan** — CEO, AI Avengers / TTW AI
+**Manoj Saharan** — CEO, The Talent Warehouse AI , Creator : AI Avengers lab Lab 
 
 - 🌐 [aiavengers.io](https://aiavengers.io)
 - 💼 [LinkedIn](https://linkedin.com/in/manojsaharanai)
 - 🎥 [YouTube @ManojSaharanAI](https://youtube.com/@ManojSaharanAI)
-- 👥 [Free Community (3,000+ members)](https://skool.com/ai-avengers)
-- 🚀 [AI Avengers Lab ($89/mo)](https://skool.com/ai-avengers-lab/about)
+- 👥 [Free Community (3,000+ members)](https://www.skool.com/ai-avengers-3116)
+- 🚀 [AI Avengers lab Lab ($89/mo)](https://www.skool.com/ai-avengers-3116-lab/about)
 
 For questions or suggestions, [open an issue](https://github.com/manojsaharan01/aicompany/issues) or reach out on LinkedIn.
 
