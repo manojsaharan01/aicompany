@@ -18,7 +18,7 @@
 
 > In 2022, I open-sourced this blueprint for building AI-native companies. Instead of just theorizing, I went and built one. Here's what that looks like in production.
 
-## The Company: AI Avengers lab Lab
+## The Company: AI Avengers Lab
 
 | What | Details |
 |------|---------|
@@ -417,7 +417,7 @@ If you're building an AI-native company (or thinking about it), here's how to co
 
 - 🎥 **Subscribe** to [@ManojSaharanAI](https://youtube.com/@ManojSaharanAI) for weekly breakdowns of AI tools and strategies
 - 👥 **Join Our Friday Workshops ** the [https://manojsaharan.ai/workshop) — free to join
-- 🚀 **Apply** to [AI Avengers lab Lab](https://www.skool.com/ai-avengers-3116-lab/about) for hands-on coaching and frameworks
+- 🚀 **Apply** to [AI Avengers Lab](https://www.skool.com/ai-avengers-3116-lab/about) for hands-on coaching and frameworks
 - ⭐ **Star this repo** if you found it useful
 
 ## Contributing
@@ -434,13 +434,13 @@ This repository is inspired by the work and teachings of Karim Lakhani and other
 
 ## Contact
 
-**Manoj Saharan** — CEO, The Talent Warehouse AI , Creator : AI Avengers lab Lab 
+**Manoj Saharan** — CEO, The Talent Warehouse AI , Creator : AI Avengers Lab 
 
 - 🌐 [aiavengers.io](https://aiavengers.io)
 - 💼 [LinkedIn](https://linkedin.com/in/manojsaharanai)
 - 🎥 [YouTube @ManojSaharanAI](https://youtube.com/@ManojSaharanAI)
 - 👥 [Free Community (3,000+ members)](https://www.skool.com/ai-avengers-3116)
-- 🚀 [AI Avengers lab Lab ($89/mo)](https://www.skool.com/ai-avengers-3116-lab/about)
+- 🚀 [AI Avengers Lab ($89/mo)](https://www.skool.com/ai-avengers-3116-lab/about)
 
 For questions or suggestions, [open an issue](https://github.com/manojsaharan01/aicompany/issues) or reach out on LinkedIn.
 
