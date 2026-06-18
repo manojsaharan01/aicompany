@@ -22,8 +22,8 @@
 
 | What | Details |
 |------|---------|
-| **Community** | 3,000+ members on [Skool](https://www.skool.com/ai-avengers-3116) |
-| **Paid Product** | AI Avengers lab Lab — coaching community for AI entrepreneurs |
+| **Skool Community** | 3,000+ members on [Skool](https://www.skool.com/ai-avengers-3116) |
+| **Paid Product** | Claude AIOS — 1-1 DWY AI Operating system deployement for Executives and Teams |
 | **Agency** | Custom B2B AI implementation for founders and agencies |
 | **Content** | YouTube [@ManojSaharanAI](https://youtube.com/@ManojSaharanAI) + LinkedIn |
 
